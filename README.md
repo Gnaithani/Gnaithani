@@ -1,6 +1,6 @@
 ### Hi Developers 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-Gunjan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gunjan--39bb2922a/)](https://www.linkedin.com/in/gunjan-naithani-39bb2922a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BgukWd2e7SyuqTKP4DbWXVg%3D%3D)
+[![Linkedin Badge](https://img.shields.io/badge/-Gunjan-green?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gunjan--39bb2922a/)](https://www.linkedin.com/in/gunjan-naithani-39bb2922a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BgukWd2e7SyuqTKP4DbWXVg%3D%3D)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Gunjan-red)](https://stackoverflow.com/users/18789223/Gunjan-)
 
 
